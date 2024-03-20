@@ -1,0 +1,13 @@
+{
+  "description": "",
+  "devDependencies": {
+    "@babel/cli": "^7.23.9",
+    "@babel/core": "^7.24.0",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.24.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "core-js": "^3.36.0"
+  }
+}
